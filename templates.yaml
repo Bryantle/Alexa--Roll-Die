@@ -1,0 +1,7 @@
+start: Would you like for me to roll a die?
+
+yes: I rolled a {{number}}.
+
+no: Then why would you ask me ask roll die?
+
+end: Good bye.
